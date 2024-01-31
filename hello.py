@@ -1,0 +1,1 @@
+nombre = input("Saisis un nombre, n'importe lequel : ")
